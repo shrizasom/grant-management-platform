@@ -1,0 +1,10 @@
+[
+  {"question": "How many applications in the Community Health Fund cycle are still under review?", "expected": "3"},
+  {"question": "Which reviewer has the most active assignments?", "expected": "Omar Farouk"},
+  {"question": "Show me approved applications requesting more than $10,000.", "expected": "approved"},
+  {"question": "How many applications in cyc_999 are under review?", "expected": "0"},
+  {"question": "Find rejected applications with requested amounts from $90000 to $100000.", "expected": "totalCount"},
+  {"question": "Summarize cyc_003.", "expected": "cyc_003"},
+  {"question": "Preview moving rev_001 assignments in cyc_001 to rev_002.", "expected": "affected"},
+  {"question": "Show application app_0002.", "expected": "Lantern Program"}
+]

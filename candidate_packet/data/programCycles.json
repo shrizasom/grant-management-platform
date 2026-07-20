@@ -1,0 +1,5 @@
+{"_id": "cyc_001", "name": "Community Health Fund 2026", "programType": "grant", "status": "active", "openDate": "2026-01-05", "closeDate": "2026-03-01"}
+{"_id": "cyc_002", "name": "STEM Scholarship Spring 2026", "programType": "scholarship", "status": "active", "openDate": "2026-02-01", "closeDate": "2026-04-15"}
+{"_id": "cyc_003", "name": "Arts Fellowship 2025", "programType": "fellowship", "status": "closed", "openDate": "2025-06-01", "closeDate": "2025-08-31"}
+{"_id": "cyc_004", "name": "Climate Innovation Grant 2026", "programType": "grant", "status": "active", "openDate": "2026-01-20", "closeDate": "2026-05-01"}
+{"_id": "cyc_005", "name": "Rural Education Grant 2025", "programType": "grant", "status": "closed", "openDate": "2025-03-01", "closeDate": "2025-05-15"}

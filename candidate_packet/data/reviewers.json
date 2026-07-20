@@ -1,0 +1,8 @@
+{"_id": "rev_001", "name": "Priya Nair", "email": "priya.nair@example.org", "specialties": ["education", "technology", "arts"], "activeAssignmentsCount": 2}
+{"_id": "rev_002", "name": "Marcus Bell", "email": "marcus.bell@example.org", "specialties": ["health"], "activeAssignmentsCount": 1}
+{"_id": "rev_003", "name": "Wei Chen", "email": "wei.chen@example.org", "specialties": ["community"], "activeAssignmentsCount": 1}
+{"_id": "rev_004", "name": "Fatima Khan", "email": "fatima.khan@example.org", "specialties": ["community"], "activeAssignmentsCount": 2}
+{"_id": "rev_005", "name": "Diego Santos", "email": "diego.santos@example.org", "specialties": ["research", "education", "technology"], "activeAssignmentsCount": 2}
+{"_id": "rev_006", "name": "Hannah Levy", "email": "hannah.levy@example.org", "specialties": ["education", "technology"], "activeAssignmentsCount": 6}
+{"_id": "rev_007", "name": "Omar Farouk", "email": "omar.farouk@example.org", "specialties": ["health"], "activeAssignmentsCount": 8}
+{"_id": "rev_008", "name": "Grace Osei", "email": "grace.osei@example.org", "specialties": ["research"], "activeAssignmentsCount": 2}
